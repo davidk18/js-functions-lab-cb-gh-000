@@ -1,5 +1,5 @@
 // write your code below!
-function happyHolidays(){
+define function happyHolidays(){
   return "Happy holidays!"
 }
 
